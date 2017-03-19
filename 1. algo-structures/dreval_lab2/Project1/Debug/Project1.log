@@ -1,0 +1,8 @@
+﻿  MainForm.cpp
+d:\users\улей\documents\visual studio 2015\projects\project1\project1\MainForm.h(208): error C2228: left of '.Split' must have class/struct/union
+  d:\users\улей\documents\visual studio 2015\projects\project1\project1\MainForm.h(208): note: type is 'System::String ^'
+  d:\users\улей\documents\visual studio 2015\projects\project1\project1\MainForm.h(208): note: did you intend to use '->' instead?
+d:\users\улей\documents\visual studio 2015\projects\project1\project1\MainForm.h(209): error C2664: 'int System::Windows::Forms::DataGridViewRowCollection::Add(int)': cannot convert argument 1 from 'System::Object' to 'System::Object ^'
+  d:\users\улей\documents\visual studio 2015\projects\project1\project1\MainForm.h(209): note: No user-defined-conversion operator available, or
+  d:\users\улей\documents\visual studio 2015\projects\project1\project1\MainForm.h(209): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+MainForm.cpp(25): warning C4551: function call missing argument list

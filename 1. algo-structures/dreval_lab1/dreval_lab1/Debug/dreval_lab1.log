@@ -1,0 +1,4 @@
+﻿  dreval_lab1.cpp
+d:\users\улей\documents\visual studio 2015\projects\dreval_lab1\dreval_lab1\dreval_lab1.cpp(86): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  dreval_lab1.vcxproj -> D:\Users\Улей\Documents\Visual Studio 2015\Projects\dreval_lab1\Debug\dreval_lab1.exe
+  dreval_lab1.vcxproj -> D:\Users\Улей\Documents\Visual Studio 2015\Projects\dreval_lab1\Debug\dreval_lab1.pdb (Full PDB)
